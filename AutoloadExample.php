@@ -1,6 +1,6 @@
 <?php
 
-namespace mortezak1373\mobilepush;
+namespace mortezakarimi\mobilepush;
 
 /**
  * This is just an example.
