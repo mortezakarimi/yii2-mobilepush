@@ -1,0 +1,21 @@
+{
+    "name": "mortezak1373/yii2-mobile-push",
+    "description": "Use This Extension to send push notification with your api key to token to your mobile devices",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"," mobile push"," android push","IOS push"," Windows Phone push"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Morteza Karimi",
+            "email": "mortezak1373@yahoo.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "mortezak1373\\mobilepush\\": ""
+        }
+    }
+}
